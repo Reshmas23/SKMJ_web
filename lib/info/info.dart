@@ -1,0 +1,9 @@
+const String logoImage = "webassets/images/leptonlogo.png";
+const String institutionLogo ="webassets/images/leptonlogo.png";
+const String name = "SKMJ HIGHER SECONDARY SCHOOL KALPETTA";
+const String institutionName ="Skmj hss Kalpetta";
+const String smallLetterIN ="SKMJ Higher Secondary School Kalpetta";
+const String simple= 'SKMJ HSS Kalpetta';
+const String separate = 'SKMJ ';
+const String separatetwo = "Hss Kalpetta";
+const String withSpace ="S K M J H S S";
